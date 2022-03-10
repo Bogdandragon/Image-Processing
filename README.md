@@ -7,8 +7,8 @@ Task 0:
 Task 1:
     Pentru comanda de editare, se incarca fisierul binar intr-un buffer din care se construieste imaginea.
     Pentru comanda de salvare, se reconstruieste in mod invers fisierul binar folosind imaginea stocata.
-Task 2:
 
+Task 2:
     Pentru comanda insert, se incarca pentru editare separat imaginea data, se suprapune peste imaginea deja deschisa cu coltul din stanga jos in pozitia data.
     La final, se elibereaza memoria pentru imaginea care se suprapune.
 
